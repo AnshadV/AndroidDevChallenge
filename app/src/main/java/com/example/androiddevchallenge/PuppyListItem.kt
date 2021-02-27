@@ -37,7 +37,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.androiddevchallenge.data.DataProvider
 import com.example.androiddevchallenge.data.model.Puppy
-import com.example.androiddevchallenge.ui.theme.graySurface
 import com.example.androiddevchallenge.ui.theme.typography
 
 @Composable
